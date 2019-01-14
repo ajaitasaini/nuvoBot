@@ -1,0 +1,1 @@
+{"id":"1kDl","dependencies":[{"name":"/Users/ajaitasaini/myBotReal/.babelrc","includedInParent":true,"mtime":1547378587855},{"name":"/Users/ajaitasaini/myBotReal/package.json","includedInParent":true,"mtime":1547378587856}],"generated":{"js":"module.exports={routes:[{text:/^.+$/,action:\"echo\"}]};","map":null},"hash":"a01bbc213073716f3c5eac326bf1a8bf","cacheData":{"env":{}}}
